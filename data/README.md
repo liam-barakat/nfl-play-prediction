@@ -16,7 +16,7 @@ Tracking week files were not used in this analysis. For a more detailed descript
 
 
 **If you're interested in reproducing this work**, please contact me:
-- **Email:** your.email@gmail.com
+- **Email:** liam.barakat@gmail.com
 - **GitHub:** [@liam-barakat](https://github.com/liam-barakat)
 
 I'm happy to share the processed dataset for research or educational purposes.
