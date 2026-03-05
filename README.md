@@ -7,7 +7,7 @@ Predicting offensive play types (rush vs pass) using neural networks trained on 
 Football is a game of inches and inches make the champion. In a game where every inch counts, being able to quickly process the available information dictates a team’s success. While NFL oﬀenses are doing their best to disguise their play calls, pre-snap information such as formations and personnel packages can still give away what type of play is going to be run.
 These data, combined with contextual game state information serve as cues to reveal oﬀensive tendencies. This project examines how these cues can be used to predict an oﬀense’s upcoming play call.
 
-We develop a neural network classifier to predict whether an NFL offense will execute a pass or rush play based on pre-snap player positioning and game context features. The model achieves **74.69% accuracy** on held-out test data from the 2022  NFL season.
+I developed a neural network classifier to predict whether an NFL offense will execute a pass or rush play based on pre-snap player positioning and game context features. The model achieves **74.69% accuracy** on held-out test data from the 2022  NFL season.
 
 ## Results
 ![Model Performance](figures/learning_curve_confusion_matrix.png)
