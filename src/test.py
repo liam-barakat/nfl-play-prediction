@@ -247,4 +247,4 @@ if __name__ == "__main__":
         "y_true": test_label
         }, "models/model_and_results.pt")
 
-#TODO: in readme improve feature engineering, use pre-trained model code and paper summary. in test.py and visualisations.py uncomment convert_csvs in main method
+
