@@ -1,0 +1,15 @@
+\begin{table}[h]
+            \centering
+            \caption{Pass Play Percentage by Quarter and Game State}
+            \label{tab:game_state_pass}
+            \begin{tabular}{lcc}
+            \hline
+            \textbf{Quarter} & \textbf{Leading Team} & \textbf{Trailing Team} \\
+            \hline
+            1 & 0.557 & 0.600 \\
+2 & 0.651 & 0.644 \\
+3 & 0.552 & 0.600 \\
+4 & 0.387 & 0.768 \\
+\hline
+\end{tabular}
+\end{table}

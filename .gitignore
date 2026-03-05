@@ -1,0 +1,30 @@
+# Data files - too large to include
+*.csv
+*.parquet
+
+# Pyton
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating System
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
