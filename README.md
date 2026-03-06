@@ -106,7 +106,7 @@ This will preprocess data, train the model, and generate evaluation metrics.
 python src/visualizations.py
 ```
 
-## 📝 Research Paper & Future Work
+## Research Paper & Future Work
 
 Full  details are available in the [research paper](paper/Predicting_NFL_Play_Types.pdf). The paper includes some light EDA and explains the rationale behind the chosen features, so it might be worth checking out if you're not too familiar with american football.
 
